@@ -22,3 +22,8 @@ c) Procesa archivos y es capaz de generar gráficas a partir de los mismos.
 ## Contenido
 
 El contenido consta de varios notebooks con imágenes y explicaciones que se espera sirvan para desarrollar cosas en python de forma rápida. El material está diseñado tanto para gente con experiencia en otros lenguajes de programación como para gente que está incursionando en el desarrollo de programas sencillos que permitan automatizar tareas.
+
+* [1.Introducción a la Programación en Python - Mi Primer Programa en Python](https://github.com/arleserp/cursopython/blob/master/1-Tareas%20B%C3%A1sicas%20en%20Python.ipynb)
+* [2. Utilizando Python como una calculadora: Variables, Operaciones y Métodos](https://github.com/arleserp/cursopython/blob/master/2.%20Utilizando%20Python%20como%20una%20calculadora.ipynb)
+* [3. Métodos y Estructuras de Control](https://github.com/arleserp/cursopython/blob/master/3.%20M%C3%A9todos%20y%20estructuras%20de%20control.ipynb)
+

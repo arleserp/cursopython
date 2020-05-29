@@ -26,5 +26,6 @@ El contenido consta de varios notebooks con imágenes y explicaciones que se esp
 * [1.Introducción a la Programación en Python - Mi Primer Programa en Python](https://github.com/arleserp/cursopython/blob/master/1-Tareas%20B%C3%A1sicas%20en%20Python.ipynb)
 * [2.Utilizando Python como una calculadora: Variables, Operaciones y Métodos](https://github.com/arleserp/cursopython/blob/master/2.%20Utilizando%20Python%20como%20una%20calculadora.ipynb)
 * [3.Métodos y Estructuras de Control](https://github.com/arleserp/cursopython/blob/master/3.%20M%C3%A9todos%20y%20estructuras%20de%20control.ipynb)
+* [4.Trabajando con datos ordenados](https://github.com/arleserp/cursopython/blob/master/4.%20Trabajando%20con%20Datos%20Ordenados.ipynb)
 
 Aún hay material en construcción que será subido pronto.

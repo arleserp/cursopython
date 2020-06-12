@@ -26,6 +26,13 @@ El contenido consta de varios notebooks con imágenes y explicaciones que se esp
 * [1.Introducción a la Programación en Python - Mi Primer Programa en Python](https://github.com/arleserp/cursopython/blob/master/1-Tareas%20B%C3%A1sicas%20en%20Python.ipynb)
 * [2.Utilizando Python como una calculadora: Variables, Operaciones y Métodos](https://github.com/arleserp/cursopython/blob/master/2.%20Utilizando%20Python%20como%20una%20calculadora.ipynb)
 * [3.Métodos y Estructuras de Control](https://github.com/arleserp/cursopython/blob/master/3.%20M%C3%A9todos%20y%20estructuras%20de%20control.ipynb)
-* [4.Trabajando con datos ordenados](https://github.com/arleserp/cursopython/blob/master/4.%20Trabajando%20con%20Datos%20Ordenados.ipynb)
+* [4.Manejo de Cadenas de texto](https://github.com/arleserp/cursopython/blob/master/4.%20Manejo%20de%20Cadenas%20en%20Python.ipynb)
+* [5.Trabajando con tuplas] (https://github.com/arleserp/cursopython/blob/master/5.Trabajando%20con%20Tuplas.ipynb)
+* [6.Trabajando con datos ordenados] (https://github.com/arleserp/cursopython/blob/master/6.%20Trabajando%20con%20Datos%20Ordenados.ipynb)
+* [7.Trabajando con listas parte II](https://github.com/arleserp/cursopython/blob/master/7.%20Trabajando%20con%20listas%20Parte%20II.ipynb)
+* [8.Trabajo con Diccionarios](https://github.com/arleserp/cursopython/blob/master/8.%20Diccionarios.ipynb)
+* [9.Menajando Conjuntos en Python](https://github.com/arleserp/cursopython/blob/master/9.Manejando%20conjuntos%20en%20python%20(Sets).ipynb)
+* [10.Funciones, alcance de variables y Módulos en Python](https://github.com/arleserp/cursopython/blob/master/10.%20Funciones%2C%20alcance%20de%20variables%20y%20M%C3%B3dulos%20en%20Python.ipynb)
+
 
 Aún hay material en construcción que será subido pronto.

@@ -33,6 +33,7 @@ El contenido consta de varios notebooks con imágenes y explicaciones que se esp
 * [8.Trabajo con Diccionarios](https://github.com/arleserp/cursopython/blob/master/8.%20Diccionarios.ipynb)
 * [9.Menajando Conjuntos en Python](https://github.com/arleserp/cursopython/blob/master/9.Manejando%20conjuntos%20en%20python%20(Sets).ipynb)
 * [10.Funciones, alcance de variables y Módulos en Python](https://github.com/arleserp/cursopython/blob/master/10.%20Funciones%2C%20alcance%20de%20variables%20y%20M%C3%B3dulos%20en%20Python.ipynb)
+* [11.Archivos en python](http://localhost:8889/notebooks/GithubRep/cursoPython/cursopython/11.%20Manejo%20de%20archivos%20en%20Python.ipynb)
 
 
 Aún hay material en construcción que será subido pronto.

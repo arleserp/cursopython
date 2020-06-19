@@ -49,32 +49,11 @@ Otro objetivo del diseño del lenguaje es la facilidad de extensión. Se pueden 
 Aunque la programación en Python podría considerarse en algunas situaciones hostil a la programación funcional tradicional del Lisp, existen bastantes analogías entre Python y los lenguajes minimalistas de la familia Lisp como puede ser Scheme.
 
 Filosofía
-Los usuarios de Python se refieren a menudo a la filosofía de Python que es bastante análoga a la filosofía de Unix. El código que siga los principios de Python se dice que es "pythonico". Estos principios fueron descritos por el desarrollador de Python Tim Peters en El Zen de Python
+Los usuarios de Python se refieren a menudo a la filosofía de Python bastante análoga a la filosofía de Unix. Estos principios fueron descritos por el desarrollador de Python Tim Peters en El Zen de Python
 
-Bello es mejor que feo.
-Explícito es mejor que implícito.
-Simple es mejor que complejo.
-Complejo es mejor que complicado.
-Plano es mejor que anidado.
-Disperso es mejor que denso.
-La legibilidad cuenta.
-Los casos especiales no son tan especiales como para quebrantar las reglas.
-Lo práctico gana a lo puro.
-Los errores nunca deberían dejarse pasar silenciosamente.
-A menos que hayan sido silenciados explícitamente.
-Frente a la ambigüedad, rechaza la tentación de adivinar.
-Debería haber una —y preferiblemente solo una— manera obvia de hacerlo.
-Aunque esa manera puede no ser obvia al principio a menos que usted sea holandés.22​
-Ahora es mejor que nunca.
-Aunque nunca es a menudo mejor que ya mismo.
-Si la implementación es difícil de explicar, es una mala idea.
-Si la implementación es fácil de explicar, puede que sea una buena idea.
-Los espacios de nombres (namespaces) son una gran idea ¡Hagamos más de esas cosas!
-Tim Peters, El Zen de Python
-Desde la versión 2.1.2, Python incluye estos puntos (en su versión original en inglés) como un huevo de pascua que se muestra al ejecutar import this.23​
+La filosofía de python dice que: 1. Bello es mejor que feo. 2.Explícito es mejor que implícito. 3.Simple es mejor que complejo. 4. Complejo es mejor que complicado. 5.Plano es mejor que anidado. 6. Disperso es mejor que denso.
+7.La legibilidad cuenta. 8.Los casos especiales no son tan especiales como para quebrantar las reglas. 9.Lo práctico gana a lo puro. 10.Los errores nunca deberían dejarse pasar silenciosamente. 
 
-
-La LAMP comprende Python (aquí con Squid)
 Modo interactivo
 El intérprete de Python estándar incluye un modo interactivo en el cual se escriben las instrucciones en una especie de intérprete de comandos: las expresiones pueden ser introducidas una a una, pudiendo verse el resultado de su evaluación inmediatamente, lo que da la posibilidad de probar porciones de código en el modo interactivo antes de integrarlo como parte de un programa. Esto resulta útil tanto para las personas que se están familiarizando con el lenguaje como para los programadores más avanzados.
 

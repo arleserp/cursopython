@@ -31,7 +31,7 @@ El contenido consta de varios notebooks con imágenes y explicaciones que se esp
 * [6.Trabajando con datos ordenados](https://github.com/arleserp/cursopython/blob/master/6.%20Trabajando%20con%20Datos%20Ordenados.ipynb)
 * [7.Trabajando con listas parte II](https://github.com/arleserp/cursopython/blob/master/7.%20Trabajando%20con%20listas%20Parte%20II.ipynb)
 * [8.Trabajo con Diccionarios](https://github.com/arleserp/cursopython/blob/master/8.%20Diccionarios.ipynb)
-* [9.Menajando Conjuntos en Python](https://github.com/arleserp/cursopython/blob/master/9.Manejando%20conjuntos%20en%20python%20(Sets).ipynb)
+* [9.Manejando Conjuntos en Python](https://github.com/arleserp/cursopython/blob/master/9.Manejando%20conjuntos%20en%20python%20(Sets).ipynb)
 * [10.Funciones, alcance de variables y Módulos en Python](https://github.com/arleserp/cursopython/blob/master/10.%20Funciones%2C%20alcance%20de%20variables%20y%20M%C3%B3dulos%20en%20Python.ipynb)
 * [11.Archivos en python](http://localhost:8889/notebooks/GithubRep/cursoPython/cursopython/11.%20Manejo%20de%20archivos%20en%20Python.ipynb)
 * [12.Manejo de Excepciones en Python](https://github.com/arleserp/cursopython/blob/master/12.Manejo%20de%20Excepciones%20en%20Python.ipynb)
